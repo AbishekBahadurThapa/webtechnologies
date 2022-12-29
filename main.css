@@ -1,0 +1,24 @@
+@import ="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap" 
+   *{
+     margin:0px;
+     padding:px;
+} 
+body{
+  background-color:green;
+  font-family: 'Open Sans', sans-serif;
+}
+.column-one{
+  background-color:green;
+  color:white;
+  width:50%;
+}
+.column-two{
+  width:50%
+}
+.two-half-layout{
+  display:flex;
+  flex-direction:
+}
+.column-two figure img{
+  width:100%;
+}
